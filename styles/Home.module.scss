@@ -7,6 +7,13 @@
   margin-bottom: 20px;
 }
 
+.thumbnail {
+  width: 960px;
+  & img {
+    width: 100%;
+  }
+}
+
 .publishedAt {
   margin-bottom: 40px;
 }
